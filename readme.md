@@ -9,9 +9,9 @@
 
 This is a keyboard firmware based on the [tmk\_keyboard firmware](http://github.com/tmk/tmk_keyboard) with some useful features for Atmel AVR and ARM controllers, and more specifically, the [OLKB product line](https://olkb.com), the [ErgoDox EZ](http://www.ergodox-ez.com) keyboard, and the [Clueboard product line](http://clueboard.co/).
 
-## My keymap
+## My Keymap
 
-To install my keymap for the Planck mechanical keyboard use the following
+To install my keymap for the Planck mechanical keyboard use the following command
 
 `sudo make planck/rev4:neve`
 
